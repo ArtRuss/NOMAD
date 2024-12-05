@@ -10,6 +10,8 @@ NOMAD presents a benchmark for human detection under **occluded** aerial views, 
 __NEWS__
 >
 >>
+***WACV2025 NOMAD's human behavioural data coming soon!***
+>>
 [WACV 2024 accepted paper!](https://openaccess.thecvf.com/content/WACV2024/html/Bernal_NOMAD_A_Natural_Occluded_Multi-Scale_Aerial_Dataset_for_Emergency_Response_WACV_2024_paper.html)
 >>
 
