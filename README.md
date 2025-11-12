@@ -83,14 +83,16 @@ __CITATION__
 
 To ackowledge all effort taken by the authors of this dataset, please cite our papers accordingly:
 
-[WACV 2025 paper](https://arxiv.org/pdf/2412.05553)
+[WACV 2025 paper](https://openaccess.thecvf.com/content/WACV2025/papers/Bernal_Psych-Occlusion_using_Visual_Psychophysics_for_Aerial_Detection_of_Occluded_Persons_WACV_2025_paper.pdf)
 
 ```
-@article{russellbernal2024psych,
-  title={Psych-Occlusion: Using Visual Psychophysics for Aerial Detection of Occluded Persons during Search and Rescue},
-  author={Russell Bernal, Arturo Miguel and Cleland-Huang, Jane and Scheirer, Walter},
-  journal={arXiv preprint arXiv:2412.05553},
-  year={2024}
+@InProceedings{Russell_Bernal_2025_WACV,
+    author    = {Russell Bernal, Arturo Miguel and Cleland-Huang, Jane and Scheirer, Walter},
+    title     = {Psych-Occlusion: using Visual Psychophysics for Aerial Detection of Occluded Persons during Search and Rescue},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {3383-3395}
 }
 ```
 
