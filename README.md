@@ -81,6 +81,9 @@ Please follow the [Google Drive Link](https://drive.google.com/drive/folders/1zR
 __CITATION__
 >
 
+The NOMAD dataset is licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 To ackowledge all effort taken by the authors of this dataset, please cite our papers accordingly:
 
 [WACV 2025 paper](https://openaccess.thecvf.com/content/WACV2025/papers/Bernal_Psych-Occlusion_using_Visual_Psychophysics_for_Aerial_Detection_of_Occluded_Persons_WACV_2025_paper.pdf)
